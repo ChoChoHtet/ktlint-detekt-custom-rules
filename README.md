@@ -1,0 +1,1 @@
+# ktlint-detekt-custom-rules
